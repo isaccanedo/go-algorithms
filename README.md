@@ -6,7 +6,7 @@ go-algorithms
 Usage
 -----
 
-1. Clone `https://github.com/0xAX/go-algorithms.git` repo, it must be in your `$GOPATH`.
+1. Clone `git@github.com:isaccanedo/go-algorithms.git` repo, it must be in your `$GOPATH`.
 
 2. Execute `go build && go install` in `go-algorithms`
 
